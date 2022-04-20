@@ -40,4 +40,4 @@ In order to collaborate, please get in touch with us first, via email, so we'll 
 
 ## Copyright
 
-Copyright 2021, APA – Austria Presse Agentur, and our contributors.
+Copyright 2021-2022, APA – Austria Presse Agentur, and our contributors.
