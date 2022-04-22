@@ -24,8 +24,13 @@
 
 ## About
 
-When discussing the coverage of the Viennese elections in 2020, we had the idea of enhancing the presentation of regional results. Unfortunately, many of the 23 districts of Vienna are too big for local evaluations, the 10th district, Favoriten, for example would be the third largest city in respect to population. Using the results of single electoral districts, on the other hand, is no good option as they are too small and the inhabitants of Vienna do not have emotional bonds and do not even know which electoral district they belong to.
-For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”. Cooperating with OGM research & communication and imgrätzl.at, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of Statistik Austria, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage” which we successfully used for the Viennese elections.
+When discussing the coverage of the Viennese elections in 2020, we had the idea of enhancing the presentation of regional results. 
+
+Unfortunately, many of the 23 districts of Vienna are too big for local evaluations. The 10th district, Favoriten, for example would be the third largest city in respect to population.
+Using the results of single electoral districts, on the other hand, is no good option as they are too small and the inhabitants of Vienna do not have emotional bonds and do not even know which electoral district they belong to.
+
+For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”. Cooperating with <a href="https://www.ogm.at">OGM research & communication</a> and <a href="https://www.imgraetzl.at">imgrätzl.at</a>, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of Statistik Austria, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage” which we successfully used for the Viennese elections.
+
 Since then, this map has been continuously refined, particularly during our “Wiener Datengschichtn”-project in which we combined existing open data and NLG-technology in order to tell local stories about Vienna.
 
 We are convinced that not only Viennese people but also inhabitants of other cities have an emotional bond to their local neighborhood and love to read stories or see infographics on that subject. So we have decided to open source the project. We hope that the data-savvy community will help refining our urban neighborhoods and start to split up other cities into local units as well.
