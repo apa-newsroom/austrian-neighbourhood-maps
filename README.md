@@ -27,9 +27,9 @@
 When discussing the coverage of the Viennese elections in 2020, we had the idea of enhancing the presentation of regional results. 
 
 Unfortunately, many of the 23 districts of Vienna are too big for local evaluations. The 10th district, Favoriten, for example would be the third largest city of Austria in respect to population.
-Using the results of single electoral districts, on the other hand, is no good option as they are too small and the inhabitants of Vienna do not have emotional bonds and do not even know which electoral district they belong to.
+Using the results of single electoral districts, on the other hand, is no good option as well, as they are too small and the inhabitants of Vienna do not have emotional bonds and do not even know which electoral district they belong to.
 
-For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”. Cooperating with <a href="https://www.ogm.at">OGM research & communication</a> and <a href="https://www.imgraetzl.at">imgrätzl.at</a>, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of Statistik Austria, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage”. This map has been successfully used for the Viennese elections.
+For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”. Cooperating with <a href="https://www.ogm.at">OGM research & communication</a> and <a href="https://www.imgraetzl.at">imgrätzl.at</a>, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of <a href="https://pic.statistik.at/web_de/statistiken/index.html">Statistik Austria</a>, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage”. This map has been successfully used for the Viennese elections.
 
 Since then, this map has been continuously refined, particularly during our “Wiener Datengschichtn”-project in which we combined existing open data and NLG-technology in order to tell local stories about Vienna.
 
