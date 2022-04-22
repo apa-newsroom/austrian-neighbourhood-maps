@@ -39,10 +39,10 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## Using the Austrian Neighbourhood Maps
 
-There are two versions of our maps available for you to use.
+The current map bundles the 1.368 [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke") for the city of Vienna into 137 neiborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx). 
 
-The maps are available in GeoJSON format.
-Each file contains all areas for a given city.
+The map is available in [GeoJSON format](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graetzl_zg.json). A preview is available [here](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graezl_karte_zg.html). 
+
 
 ## Contributing to the Austrian Neighbourhood Maps
 
