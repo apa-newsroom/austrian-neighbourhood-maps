@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
-    <img src="/.github/hero-map.png" alt="" role="none" style="max-width: 80%" />
+    <img src="/.github/readme_pic.png" alt="" role="none" style="max-width: 80%" />
   </a>
 </p>
 
