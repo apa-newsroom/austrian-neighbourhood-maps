@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Wir bringen Österreichs Grätzl auf die Karte!
+  Let us put regional media coverage on the map!
 </h3>
 
 <p align="center">
