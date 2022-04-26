@@ -22,8 +22,8 @@
 
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#Using the Austrian Neighbourhood Maps">Usage</a> •
-  <a href="#Contributing to the Austrian Neighbourhood Maps">Contribution</a> •
+  <a href="#Using-the-Austrian-Neighbourhood-Maps">Usage</a> •
+  <a href="#Contributing-to-the-Austrian-Neighbourhood-Maps">Contribution</a> •
   <a href="#Copyright">Copyright</a>
 </p>
 
