@@ -1,10 +1,11 @@
 <p align="center">
-	<a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
-		<img src="https://img.shields.io/badge/cities-1-green.svg" alt="" role="none" />
-	</a>
+	
 </p>
 
 <h1 align="center">
+  <a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
+    <img src="https://img.shields.io/badge/cities-1-green.svg" alt="" role="none" />
+  </a>
   Austrian Neighbourhood Maps / Österreichische Grätzlkarten
 </h1>
 
