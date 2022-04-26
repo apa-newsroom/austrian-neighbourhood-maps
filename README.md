@@ -1,10 +1,8 @@
-<p align="center">
-	
-</p>
+
 
 <h1 align="center">
   <a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
-    <img src="https://img.shields.io/badge/cities-1-green.svg" alt="" role="none" />
+    <img src="/.github/readme_pic.png" alt="" role="none" style="max-width: 80%" />
   </a>
   Austrian Neighbourhood Maps / Österreichische Grätzlkarten
 </h1>
@@ -14,14 +12,14 @@
 </h3>
 
 <p align="center">
-  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-    <img alt="Creative Commons License" style="border-width:0" src="https://img.shields.io/badge/licence-CC--by-green.svg" />
-  </a>
+	<a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
+		<img src="https://img.shields.io/badge/cities-1-green.svg" alt="" role="none" />
+	</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
-    <img src="/.github/readme_pic.png" alt="" role="none" style="max-width: 80%" />
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Creative Commons License" style="border-width:0" src="https://img.shields.io/badge/licence-CC--by-green.svg" />
   </a>
 </p>
 
