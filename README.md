@@ -3,7 +3,7 @@
 <h1 align="center">
   <a href="https://github.com/apa-newsroom/austrian-neighbourhood-maps/">
     <img src="/.github/readme_pic.png" alt="" role="none" style="max-width: 80%" />
-  </a>
+  </a><br />
   Austrian Neighbourhood Maps / Österreichische Grätzlkarten
 </h1>
 
