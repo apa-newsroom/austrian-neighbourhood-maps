@@ -42,7 +42,7 @@ We are convinced that not only Viennese people but also inhabitants of other cit
 
 ## Using the Austrian Neighbourhood Maps and Legal Requirements
 
-The current map bundles the 1.368 [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke", see [this page](https://digitales.wien.gv.at/ogd-nutzungsbedingungen) for licensing) for the city of Vienna into 137 neighborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx). 
+The current map bundles the 1.368 [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke") for the city of Vienna into 137 neighborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx). 
 
 The map is available in [GeoJSON format](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graetzl_zg.json). A preview is available [here](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graezl_karte_zg.html). 
 
@@ -55,4 +55,4 @@ In order to collaborate, please get in touch with us first, via email, so we'll 
 
 ## Copyright
 
-Copyright APA – Austria Presse Agentur, Datenquelle Stadt Wien: data.wien.gv.at 
+Copyright APA – Austria Presse Agentur, Datenquelle [Stadt Wien](https://digitales.wien.gv.at/ogd-nutzungsbedingungen): data.wien.gv.at 
