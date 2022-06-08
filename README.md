@@ -55,4 +55,4 @@ In order to collaborate, please get in touch with us first, via email, so we'll 
 
 ## Copyright
 
-Copyright APA – Austria Presse Agentur, Datenquelle [Stadt Wien](https://digitales.wien.gv.at/ogd-nutzungsbedingungen): data.wien.gv.at 
+Copyright APA, Datenquelle: [Stadt Wien](https://digitales.wien.gv.at/ogd-nutzungsbedingungen) data.wien.gv.at 
