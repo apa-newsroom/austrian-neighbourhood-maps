@@ -24,7 +24,7 @@
   <a href="#About">About</a> •
   <a href="#Using-the-Austrian-Neighbourhood-Maps">Usage</a> •
   <a href="#Contributing-to-the-Austrian-Neighbourhood-Maps">Contribution</a> •
-  <a href="#Copyright">Copyright</a>
+  <a href="#Attribution">Attribution</a>
 </p>
 
 ## About
@@ -46,7 +46,7 @@ The current map bundles the 1.368 [statistical districts](https://www.data.gv.at
 
 The map is available in [GeoJSON format](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graetzl_zg.json). A preview is available [here](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graezl_karte_zg.html). 
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (see "Attribution" for details).
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (see [Attribution](#Attribution) for details).
 
 ## Contributing to the Austrian Neighbourhood Maps
 
