@@ -35,7 +35,7 @@ Using the results of single electoral districts, on the other hand, is no good o
 
 For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”.
 Cooperating with <a href="https://www.ogm.at">OGM research & communication</a> and <a href="https://www.imgraetzl.at">imgrätzl.at</a>, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of <a href="https://pic.statistik.at/web_de/statistiken/index.html">Statistik Austria</a>, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage”.
-This map has been successfully used for the Viennese elections.
+This map has been successfully used for the Viennese elections and has also been adapted to the presidential elections 2022.
 
 Since then, this map has been continuously refined, particularly during our “Wiener Datengschichtn”-project in which we combined existing open data and NLG-technology in order to tell local stories about Vienna.
 
@@ -45,10 +45,13 @@ We hope that the data-savvy community will help refining our urban neighborhoods
 
 ## Using the Austrian Neighbourhood Maps and Legal Requirements
 
-The current map bundles the 1.368 [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke") for the city of Vienna into 137 neighborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx).
+As of 2022 there are two different maps: 
 
-The map is available in [GeoJSON format](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graetzl_zg.json).
-A preview is available [here](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/graezl_karte_zg.html).
+The **[standard map](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/bptest/vienna/zg2022)** is based on the [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke"). It bundles the 1.368 statistical districts for the city of Vienna into 137 neighborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx). You can use this map to visualize statistical data on a neighbourhood level. 
+
+The **[electoral map](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/bptest/vienna/bp2022)** is based on [electoral districts](https://www.data.gv.at/katalog/dataset/79c1030d-5cf6-4d58-ade6-02f66fb4dffb). You can use this map to visualize election data on a neighborhood level. Since electoral districts change between elections, the electoral map needs a new update with each election. The current revision covers the electoral districts for the [presidential election 2022](https://www.data.gv.at/katalog/dataset/stadt-wien_wahleninwienwahlsprengel/resource/86d3c45c-d7c1-440d-8d16-6043a3021f88).
+
+Both maps are available in [GeoJSON](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/bptest/vienna/bp2022/graetzl_bp2022.json) format with a [preview-file](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/bptest/vienna/bp2022/graetzl_bp2022.html). For allocating statistical or electoral districts to the different neighborhoods, please refer to the [mapping-files](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/bptest/vienna/bp2022/mapping_graetzl_sprengel_bp2022.xlsx).
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (see [Attribution](#Attribution) for details).
 
