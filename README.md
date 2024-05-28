@@ -35,9 +35,9 @@ Using the results of single electoral districts, on the other hand, is no good o
 
 For that reasons the APA-editorial staff and the Data + Graphics-team developed a map of urban neighborhoods, the so called “Wiener Grätzl-Karte”.
 Cooperating with <a href="https://www.ogm.at">OGM research & communication</a> and <a href="https://www.imgraetzl.at">imgrätzl.at</a>, we succeeded in splitting Vienna into 137 urban neighborhoods (“Grätzl”), that are based on the census districts of <a href="https://pic.statistik.at/web_de/statistiken/index.html">Statistik Austria</a>, with neighborhoods like “Nordbahnviertel”, “Per-Albin-Hansson-Siedlung” or the “Döblinger Cottage”.
-This map has been successfully used for the Viennese elections and has also been adapted to the Presidential Election 2022 and the European Election 2024.
+This map has been successfully used for the Viennese elections in 2020 and has since been refined, particularly during our “Wiener Datengschichtn”-project in which we combined existing open data and NLG-technology in order to tell local stories about Vienna.
 
-Since then, this map has been continuously refined, particularly during our “Wiener Datengschichtn”-project in which we combined existing open data and NLG-technology in order to tell local stories about Vienna.
+The last updates contain adaptions for the Presidential Election 2022 and the European Election 2024.
 
 We are convinced that not only Viennese people but also inhabitants of other cities have an emotional bond to their local neighborhood and love to read stories or see infographics on that subject.
 So we have decided to open source the project.
