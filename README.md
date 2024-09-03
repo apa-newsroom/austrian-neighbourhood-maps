@@ -45,13 +45,15 @@ We hope that the data-savvy community will help refining our urban neighborhoods
 
 ## Using the Austrian Neighbourhood Maps and Legal Requirements
 
-As of June 2024 there are three different maps: 
+As of September 2024 there are four different maps: 
 
 The **[standard map](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/bptest/vienna/zg2022)** is based on the [statistical districts](https://www.data.gv.at/katalog/dataset/0adc90c9-ac6b-47ef-aa83-b7780594720c) ("Zählbezirke"). It bundles the 1.368 statistical districts for the city of Vienna into 137 neighborhoods ("Grätzl") as defined by the mapping in [mapping_graetzl_zaehlgebiete.xlsx](https://github.com/apa-newsroom/austrian-neighbourhood-maps/blob/main/vienna/mapping_graetzl_zaehlgebiete.xlsx). You can use this map to visualize statistical data on a neighbourhood level. 
 
 The **[electoral map for the Presidential Elections 2022](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/main/vienna/bp2022)** is based on [electoral districts](https://www.data.gv.at/katalog/dataset/79c1030d-5cf6-4d58-ade6-02f66fb4dffb) for the Presidential Elections 2022.
 
 The **[electoral map for the European Elections 2024](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/main/vienna/eu2024)** is based on [electoral districts](https://www.data.gv.at/katalog/dataset/79c1030d-5cf6-4d58-ade6-02f66fb4dffb) for the European Elections 2024. 
+
+The **[electoral map for the European Elections 2024](https://github.com/apa-newsroom/austrian-neighbourhood-maps/tree/main/vienna/nr2024)** is based on [electoral districts](https://www.data.gv.at/katalog/dataset/79c1030d-5cf6-4d58-ade6-02f66fb4dffb) for the General Elections 2024. 
 
 You can use these maps to visualize election data on a neighborhood level. Since electoral districts in Vienna change between elections, the electoral map needs a new update with each election. The next update will be published for the General Election in Autumn 2024. 
 
